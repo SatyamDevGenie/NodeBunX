@@ -1,1 +1,1 @@
-## starting with one basic project => nodejs & bunjs
+## starting with one basic project using nodejs & bunjs
