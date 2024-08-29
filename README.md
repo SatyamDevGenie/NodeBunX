@@ -1,1 +1,1 @@
-### starting with one basic project using nodejs & bunjs
+### basic project using nodejs & bunjs
